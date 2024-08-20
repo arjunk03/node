@@ -35,3 +35,6 @@ emitter.emit("event1", "1 again emitted");
 emitter.emit("event2", "2  emitted");
 emitter.emit("event3", "3 emitted");
 emitter.emit("event4", "4 emitted");
+
+emitter.removeListener("event2", list3);
+emitter.emit("event2", "2  emitted after removing");
