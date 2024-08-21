@@ -29,7 +29,7 @@ function readEmployeesync() {
 }
 
 // createFile();
-// readEmployeesync();
+readEmployeesync();
 
 // asynchronous
 //
@@ -53,6 +53,8 @@ function readNewData() {
     console.log("finished async readign");
   });
 }
+
+readEmployee();
 
 function writedata(name, city) {
   console.log("stated wrtitt");
