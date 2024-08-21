@@ -1,16 +1,1 @@
-[
-  {
-    "name": "arjun",
-    "age": 22
-  },
-
-  {
-    "name": "raj",
-    "age": 25
-  },
-
-  {
-    "name": "Sanjay",
-    "age": 22
-  }
-]
+[{"name":"arjun","age":22},{"name":"raj","age":25},{"name":"Sanjay","age":22},{"name":"arrrrrrrr","age":"54"}]
