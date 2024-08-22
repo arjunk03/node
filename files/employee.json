@@ -1,7 +1,1 @@
-[
-  { "ename": "arjun", "ecity": "Bnglre" },
-  { "ename": "raj", "ecity": "chennai" },
-  { "ename": "ajay", "ecity": "Kolkata" },
-  { "ename": "sid", "ecity": "Pune" },
-  { "name": "tttttttt", "city": "tttttt" }
-]
+[{"ename":"arjun","ecity":"Bnglre"},{"ename":"raj","ecity":"chennai"},{"ename":"ajay","ecity":"Kolkata"},{"ename":"sid","ecity":"Pune"},{"name":"tttttttt","city":"tttttt"},{"name":"","city":"aaaa"}]

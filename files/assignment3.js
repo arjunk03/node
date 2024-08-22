@@ -66,6 +66,8 @@ function writedata(name, city) {
   fs.writeFileSync(file, JSON.stringify(employees));
 
   console.log("completed the wrirttting");
+
+  readNewData();
 }
 
 let r1 = readline.createInterface({
